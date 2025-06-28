@@ -1,4 +1,4 @@
-*.paramountplus.com
+(.|^)paramountplus.com$
 saa.paramountplus.com
 paramountplus.com.data.adobedc.net
 cbsinteractive.data.adobedc.net
